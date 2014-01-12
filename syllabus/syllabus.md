@@ -1,6 +1,6 @@
 # Quantitative Methods, ENSP 202, Spring 2014
 
-4 Units, Monday and Wednesday, 10:45 am - 12:00 pm, RCH 14 <br />
+3 Units, Monday and Wednesday, 10:45 am - 12:00 pm, RCH 14 <br />
 Daniel Soto <br />
 Rachel Carson Hall 12 <br />
 sotod@sonoma.edu <br />
@@ -56,12 +56,15 @@ uses during class time is strongly discouraged.
 
 ## Required Texts
 
-There is no required text for this class.  There will be readings posted
-to Moodle throughout the semester.
+- *The Joy of x: A Guided Tour of Math, from One to Infinity*, Steven Strogatz.
+- *Guesstimation*, Lawrence Weinstein and John A. Adam
 
-## Course Schedule
+There will also be readings posted to Moodle throughout the
+semester.
 
-The tentative schedule of topics for the class is below.  This schedule
+## Lectures
+
+The tentative schedule of lecture topics for the class is below.  This schedule
 is likely to change.
 
 |    |               |                                            |
@@ -94,6 +97,26 @@ is likely to change.
 | 26 | W 23 Apr 2014 | Statistics                                 |
 | 27 | M 28 Apr 2014 | Statistics                                 |
 | 28 | W 30 Apr 2014 | Extrapolation and forcasting               |
+
+
+## Readings
+
+From the Steven Strogatz book.  These readings are also subject to
+revision.
+
+|               |                                         |
+|:--------------|:----------------------------------------|
+| W 15 Jan 2014 | From fish to infinity, Rock groups      |
+| W 22 Jan 2014 | Location, location, location            |
+| W 05 Feb 2014 | Commuting, Division and its discontents |
+| W 26 Feb 2014 | Square Dancing                          |
+| W 05 Mar 2014 | Sine qua non                            |
+| W 12 Mar 2014 | All about e                             |
+| M 07 Apr 2014 | Take it to the limit                    |
+| W 09 Apr 2014 | Change we can believe in                |
+| M 21 Apr 2014 | The new normal                          |
+| W 23 Apr 2014 | Chances are                             |
+
 
 
 ## Office Hours
