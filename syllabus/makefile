@@ -1,10 +1,9 @@
-all : 202-syllabus.html syllabus.pdf
+prefix = 202-syllabus
 
-202-syllabus.html : syllabus.md
-	pandoc -o 202-syllabus.html -c soto.css syllabus.md
+all : $(prefix).html $(prefix).pdf
 
-syllabus.pdf : 202-syllabus.html
-	#pandoc -o syllabus.pdf syllabus.md
-	# maybe make intermediate html using special pdf.css file?
-	# use css on server?
-	wkpdf -o syllabus.pdf -m 36 -s 202-syllabus.html
+$(prefix).html : $(prefix).md
+	pandoc -o $(prefix).html -c soto.css $(prefix).md
+
+$(prefix).pdf : $(prefix).html
+	wkpdf -p letter -m 36 -o $(prefix).pdf -s $(prefix).html

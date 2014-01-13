@@ -1,16 +1,14 @@
 # Quantitative Methods, ENSP 202, Spring 2014
 
-3 Units, Monday and Wednesday, 10:45 am - 12:00 pm, RCH 14 <br />
-Daniel Soto <br />
-Rachel Carson Hall 12 <br />
-sotod@sonoma.edu <br />
-Department of Environmental Studies and Planning <br />
-Sonoma State University <br />
+-----------
+3 Units, Monday and Wednesday, 10:45 am - 12:00 pm, RCH 14
+Daniel Soto
+Rachel Carson Hall 12
+sotod@sonoma.edu
+Department of Environmental Studies and Planning
+Sonoma State University
+-----------
 
-<!--
-syllabus guidelines:
-http://www.sonoma.edu/uaffairs/policies/courseoutline.htm
--->
 
 ## Course Description
 Lectures and workshop designed to enhance students' confidence in
@@ -23,18 +21,23 @@ introduction to calculus, differential equations, and complex numbers.
 Prerequisites: ENSP majors or minors; completion or concurrent
 enrollment in GE Area B4 (Math Concepts). Cr/NC only.
 
+
 ## Learning Objectives
 
 - Increase confidence in the use of mathematics
 - Development of model thinking and quantitative estimation skills
 - Development of quantitative critical thinking skills
 
+
 ## Course Requirements
 
 This course will have both in-class exercises and homework to reinforce
 concepts learned in class.  Readings will be assigned and quizzes will
 be given on these readings.  Students should be prepared to discuss any
-assigned reading in class.
+assigned reading in class.  Students will complete a final project that
+uses mathematics and estimation skills to estimate the answer a current
+question of importance in the media, politics, or environment.
+
 
 ## Grading
 
@@ -42,17 +45,26 @@ This class is graded on a credit/no credit basis.  Any student who makes
 an observable effort to complete every question of every assignment will
 receive credit.
 
+- Classwork and quizzes 25%
+- Homework 25%
+- Project 25%
+- Final 25%
+
+
 ## Agreements
 
 - Respectful tone in classroom
 
-Civility is required from all students during discussions and interactions.
+Civility is required from all students during discussions and
+interactions.  In general, I expect students to be supportive of each
+others learning goals.
 
 - Minimize electronic distractions
 
 Internet-connected electronic devices (phones, tablets) may be used in
 class for learning purposes.  Using devices for social networks or other
 uses during class time is strongly discouraged.
+
 
 ## Required Texts
 
@@ -62,10 +74,11 @@ uses during class time is strongly discouraged.
 There will also be readings posted to Moodle throughout the
 semester.
 
+
 ## Lectures
 
-The tentative schedule of lecture topics for the class is below.  This schedule
-is likely to change.
+The tentative schedule of lecture topics for the class is below.  This
+schedule is likely to change.
 
 |    |               |                                            |
 |:--:|:-------------:|:------------------------------------------:|
@@ -98,6 +111,8 @@ is likely to change.
 | 27 | M 28 Apr 2014 | Statistics                                 |
 | 28 | W 30 Apr 2014 | Extrapolation and forcasting               |
 
+The final exam will be held on Monday, May 5th, from 11 am - 12:50 pm.
+
 
 ## Readings
 
@@ -118,11 +133,10 @@ revision.
 | W 23 Apr 2014 | Chances are                             |
 
 
-
 ## Office Hours
 
 My office hours are held Tuesday and Wednesday in my office in Rachel
-Carson Hall from 2pm until 3pm.  Signup is online and can be accessed
+Carson Hall 12 from 2pm until 3pm.  Signup is online and can be accessed
 through my website [http://danielrsoto.com](http://danielrsoto.com)
 
 
