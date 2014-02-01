@@ -1,0 +1,289 @@
+\documentclass{article}
+\usepackage{soto-homework}
+
+% set up whether we are printing assignment or solution
+\newif\ifsolution
+\input{solution}
+
+\newcommand{\ufrac}[2]{\frac{\textrm{#1}}{\textrm{#2}}}
+
+\begin{document}
+
+\chead{ENSP 202 Homework 1}
+\chead{Due Date:  Mon 03 Feb 2014}
+\hrule
+\vspace{10pt}
+
+
+For all the following examples, explain your strategy in a few
+sentences, and clearly show your work including intermediate steps.
+Solutions that only provide the answer without any supporting
+explanation or calculations will not receive credit.  It should be
+clear from your work that you understand the material.
+
+\problem{All your base are belong to us}
+
+Express the following binary numbers in decimal
+
+\subproblem $10110_2$ \solution{\boxed{22_{10}}
+
+I start by writing out the value assigned to each of the places.  From
+left to right, they are
+
+$$ 2^4, 2^3, 2^2, 2^1, 2^0 $$
+$$ 16, 8, 4, 2, 1 $$
+
+I then multiply each place by the value in that place
+
+$$ 1 \cdot 16 + 0 \cdot 8 + 1 \cdot 4
+ + 1 \cdot 2 + 0 \cdot 1 = \boxed{22_{10}} $$
+}
+
+\subproblem $1_2$ \solution{\boxed{1_{10}}
+
+The number 1 is the same in any base.  1 in the ones place equals 1 and
+done.
+}
+
+\subproblem $10.01_2$ \solution{\boxed{2.25_{10}}
+
+Now we encounter fractional places.  We calmly proceed by writing the
+values of the places, noticing that they are also assigned to negative powers
+now.
+
+$$ 2^1, 2^0, 2^{-1}, 2^{-2} $$
+$$ 2, 1, \frac{1}{2}, \frac{1}{4} $$
+
+Then we multiply and add just as we did before
+
+$$ 1 \cdot 2 + 0 \cdot 1 + 0 \cdot \frac{1}{2} + 1 \cdot \frac{1}{4} $$
+$$ 2 + \frac{1}{4} = \boxed{2.25_{10}} $$
+
+
+}
+
+\subproblem $1100_2$ \solution{ \boxed{12_{10}}
+
+$$ 2^3, 2^2, 2^1, 2^0 $$
+$$ 8,4,2,1 $$
+$$ 1 \cdot 8 + 1 \cdot 4 + 0 \cdot 2 + 0 \cdot 1 = \boxed{12_{10}} $$
+}
+
+\subproblem $101.1_2$ \solution{\boxed{5.5_{10}}
+
+$$ 2^2, 2^1, 2^0, 2^{-1} $$
+$$ 4, 2, 1, \frac{1}{2} $$
+
+Then we multiply and add just as we did before
+
+$$ 1 \cdot 4 + 0 \cdot 2 + 1 \cdot 1 + 1 \cdot \frac{1}{2} $$
+$$ 5 + \frac{1}{2} = \boxed{5.5_{10}} $$
+}
+
+
+
+Express the following hexadecimal numbers in decimal.  Be sure you
+understand the meaning of A, B, C, D, E, and F.
+
+\subproblem $20C_{16}$ \solution{ \boxed{524_{10}}
+
+I start by writing out the places recalling that hexadecimal uses 16 as
+its base.  From left to right, they are
+
+$$ 16^2, 16^1, 16^0 $$
+$$ 256, 16, 1 $$
+
+I then multiply each place by the value in that place, recalling that
+since arabic numbers only have 10 symbols, A=10, B=11, C=12, D=13, E=14,
+and F=15.
+
+$$ 2 \cdot 256 +0 \cdot 16 + C_{16} \cdot 1 $$
+$$ 2 \cdot 256 +0 \cdot 16 + 12 \cdot 1 = \boxed{524_{10}} $$
+}
+
+
+\subproblem $AA10_{16}$ \solution{\boxed{43536_{10}}
+
+$$ 16^3, 16^2, 16^1, 16^0 $$
+$$ 4096, 256, 16, 1 $$
+$$ A_{16} \cdot 4096 + A_{16} \cdot 256 + 1 \cdot 16 +0 \cdot 1  $$
+$$ 10 \cdot 4096 + 10 \cdot 256 + 1 \cdot 16 +0 \cdot 1 =
+\boxed{43536_{10}}  $$
+}
+
+\subproblem $1AB_{16}$ \solution{ \boxed{427_{10}}
+
+$$ 16^2, 16^1, 16^0 $$
+$$ 256, 16, 1 $$
+
+
+$$ 1 \cdot 256 + A_{16} \cdot 16 + B_{16} \cdot 1  $$
+$$ 1 \cdot 256 + 10 \cdot 16 + 11 \cdot 1 = \boxed{427_{10}}$$
+}
+
+Write the following decimal numbers in binary notation:
+
+\subproblem $8_{10}$ \solution{\boxed{1000_2}
+
+Converting from decimal to binary is a little less straightforward.  To
+start, we ask how many digits do we need to represent this number?  Or,
+what is the biggest place we need?  We can write out a few places and
+ask ourselves if we need them.
+
+$$ 2^5, 2^4, 2^3, 2^2, 2^1, 2^0 $$
+$$ 32, 16, 8, 4, 2, 1 $$
+
+What digit do we put in the 32 place?  Zero since 8 is less than 32.
+How about the 16 place?  Zero as well.
+
+How about the 8 place?  Our number is 8 so we put a 1 in the 8 place and
+there is nothing left over so the rest of the places are also zero.
+
+$$ \boxed{1000_2} $$
+}
+
+\subproblem $32_{10}$ \solution{\boxed{100000_2}
+
+$$ \boxed{100000_2} $$
+}
+
+\subproblem $123_{10}$ \solution{\boxed{1111011_2}
+
+This number is larger than either of the last two examples so we'll need
+more digits.  We start with
+
+$$ 2^7, 2^6, 2^5, 2^4, 2^3, 2^2, 2^1, 2^0 $$
+$$ 128, 64, 32, 16, 8, 4, 2, 1 $$
+
+Do we need a one or a zero in the 128 place?  Zero since 123 is less
+than 128.  How about the 64 place?  We place a one there and now we have
+$123 - 64 = 59$ left to represent.  59 is greater than 32 so we also put
+a one in the 32 place leaving $59 - 32 = 27$ left to represent.  We
+continue in this pattern and find
+
+$$ \boxed{1111011_2} $$
+
+We can verify by converting this back to decimal.
+
+$$ 2^6, 2^5, 2^4, 2^3, 2^2, 2^1, 2^0,  $$
+$$ 64, 32, 16, 8, 4, 2, 1,  $$
+$$ 1 \cdot 64 + 1 \cdot 32 + 1 \cdot 16 + 1 \cdot 8
+ + 0 \cdot 4 + 1 \cdot 2 + 1 \cdot 1 = 123$$
+
+}
+
+
+\subproblem $0.5_{10}$ \solution{\boxed{0.1_2}
+
+Here, again, we represent a fractional number so we need to use places
+that have values less than one.
+
+This case can be done by noticing that 0.5 is exactly one-half which can
+be is the value of the binary place immediately to the right of the
+decimal.
+
+$$ \boxed{0.1_2} $$
+}
+
+\subproblem $2.75_{10}$ \solution{ \boxed{10.11_2}
+
+Same process, what is the largest power of two that is equal or smaller
+than 2.75?  $2^1$ is so we put a one in the $2^1$ place and we have 0.75
+left over.  What is the largest power of two that is equal or smaller?
+$2^0$ or 1 is larger so we put a zero in the ones place.  $2^{-1}$ is
+smaller, so we put a 1 in the $2^{-1}$ place and we have 0.25 left over.
+$2^{-2}$ or 1/4 is equal or smaller so we put a 1 in the $2^{-2}$ place
+and we have nothing left over.  Writing these digits out, we get:
+
+\boxed{10.11_2}
+}
+
+
+\problem{Go metric}
+Why is the metric system easier to work with numerically than the
+english system?
+
+
+\solution{
+The metric system is based on power of ten exactly like our decimal
+number system.  This makes converting between units like kilometers and
+meters a simple division or multiplication by a power of ten.
+}
+
+
+
+
+\problem{Time Spent}
+
+Please estimate the amount of time you spent on this homework.
+
+\end{document}
+
+%\rule{1cm}{0.5pt}\ \rule{1cm}{0.5pt} .\ \rule{1cm}{0.5pt}\ \rule{1cm}{0.5pt}
+
+\problem{Scientific notation}
+
+Express our current estimate of the world population (7.32 billion) in
+scientific notation.
+
+Express the
+
+
+Significant figures
+
+How many significant figures are reasonable when you express the weight
+of a person?
+
+How many significant figures are reasonable when you express a salary?
+
+1. 	Write the following numbers in exponential notation:
+0.0021
+1,256,000
+45,321 (three significant figures)
+0.000200
+29,001,214
+16,200,000,000,000,000,000
+6
+60
+avagadro's number
+one google
+
+2. 	Write the following numbers in plain decimal notation:
+$3.2 \cdot 10^6$
+$5 \cdot 10^2$
+$177 \cdot 10^6$
+$0.3 x 10^3$
+0.004 x 106
+
+3. 	State how many significant figures there are in the following numbers:
+32
+21,415.40
+0.00085
+0.004300
+4.2
+
+Quantities
+
+If you drive 20 miles, how many kilometers is that?
+
+How many cups of water in a gallon?
+
+My car is traveling at 30 miles per hour, how many meters per second is
+that?
+
+You are stranded on a desert island with nothing but dice and want to
+create a number system.  How would this work?
+
+Estimate how much time you spent on this homework.
+
+
+
+Homework 2
+
+- units
+- unit conversion
+
+Homework 3
+
+Homework 4
+
