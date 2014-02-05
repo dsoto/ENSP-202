@@ -1,7 +1,6 @@
 EXT = tex
 SRC = $(filter-out solution.tex, $(wildcard *.$(EXT)))
 PDFS=$(SRC:.tex=.pdf)
-
 all: $(PDFS)
 
 # generate both the assignment and the solution
@@ -9,7 +8,7 @@ all: $(PDFS)
 # $* stem of target
 # $< name of first prerequisite
 
-%.pdf: %.tex
+%.pdf: %.$(EXT)
 	# create solution
 	echo "\solutiontrue" > solution.tex
 	pdflatex $<
@@ -18,6 +17,6 @@ all: $(PDFS)
 	echo "\solutionfalse" > solution.tex
 	pdflatex $<
 
-clean:
+tidy:
 	rm *.log *.aux
 	rm solution.tex
