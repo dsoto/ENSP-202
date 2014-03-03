@@ -1,10 +1,14 @@
 # Upcoming Assignments
 
-## Project Topic
-Monday 3 Mar 2014
+## Monday 3 Mar 2014
+- Project Topic
 
-## Project Proposal
-Monday 10 Mar 2014
+## Wednesday 5 Mar 2014
+- Reading Strogatz "All about e"
+- Reading Strogatz "Power Tools"
 
-## Homework 5
-Wed 12 Mar 2014
+## Monday 10 Mar 2014
+- Project Proposal
+
+## Wednesday 12 Mar 2014
+- Homework 5
