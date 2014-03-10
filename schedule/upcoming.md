@@ -18,3 +18,6 @@
 ## Monday 24 Mar 2014
 - Reading Strogatz "Take it to the limit"
 - Reading Strogatz "Change we can believe in"
+
+## Wednesday 26 Mar 2014
+- Proposal Feedback
