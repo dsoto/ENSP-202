@@ -27,6 +27,7 @@ you practice doing this.
 Lastly, we will present our work to each other in brief (5 minute)
 presentations in class.
 
+Last modified 10 March 2014.
 
 ## Brainstorm topics
 <!--Due 17 Feb 2014-->
@@ -48,15 +49,29 @@ outline of how you plan to estimate it.
 ## Proposal Feedback
 <!--Due 24 Mar 2014-->
 
-Your estimation proposal will be randomly assigned to two other students
-in the class.  They will read it and give you feedback on
+You will receive two estimation proposals from your classmates.
+You will read them and give you feedback on the following aspects of the
+proposals.
 
 - The clarity of the proposal
-- The plausibility of the method proposed
+
+How could the proposal be written to make it more clear?
+
+- Organization of the proposal
+
+Is it well organized?  Does it have a structure that aids the reader in
+understanding the goals and methods?
+
+- The usefulness of the method proposed
+
+Apply the mathematical intuition you have gained so far in the class.
+Will the estimations proposed answer the question posed?  Are there
+improvements that could be made to the method?
 
 Make your feedback supportive, constructive and keep it focused on the
 proposal.  As a rule of thumb, provide comments only on the work, not
-the person.
+the person.  Your goal is to help your classmates improve the quality of
+their projects and reach their highest potential.
 
 
 ## Estimation first draft
