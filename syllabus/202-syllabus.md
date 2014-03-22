@@ -27,6 +27,7 @@ enrollment in GE Area B4 (Math Concepts). Cr/NC only.
 - Increase confidence in the use of mathematics
 - Development of model thinking and quantitative estimation skills
 - Development of quantitative critical thinking skills
+- Development of quantitative communication skills
 
 
 ## Course Requirements
@@ -51,6 +52,33 @@ receive credit.
 - Final 25%
 
 
+## Classwork
+
+We will frequently perform group work in class to gain practice on the
+concepts presented in the lecture and readings.  This work will be
+turned in at the end of class.  If you miss class due to an unexcused
+absence, you will receive a zero on that day's classwork grade.
+
+
+## Homework
+
+Homework will be assigned to practice the math concepts and techniques
+you will learn in class.  You will be graded both on the mathematical
+validity of your work as well as your ability to communicate your
+methods.  This means that in addition to the mathematics, you should be
+providing brief explanations of your techniques and your thought
+process.  Calculations without supporting arguments will not receive
+full credit.
+
+Homework will be graded on a coarse grading schedule of a 1, 2, or 3.  A
+3 is given for strong work that meets or exceeds the requirements, a 2
+for adequate work, and a 1 for work that doesn't meet expectations.
+After grading, you may submit a self-evaluation that considers how your
+approach differs from the accepted approach.  Self-evaluations that
+demonstrate an improvement in your understanding will raise your
+homework grade through partial credit.
+
+
 ## Agreements
 
 - Respectful tone in classroom
@@ -72,10 +100,11 @@ uses during class time is strongly discouraged.
 - *Guesstimation*, Lawrence Weinstein and John A. Adam
 
 There will also be readings posted to Moodle throughout the
-semester.
+semester.  Graded reflection assignments will be assigned for posted
+readings and will be included in your homework grading average.
 
 
-## Lectures
+## Lecture Schedule
 
 The tentative schedule of lecture topics for the class is below.  This
 schedule is likely to change.
@@ -114,7 +143,7 @@ schedule is likely to change.
 The final exam will be held on Monday, May 5th, from 11 am - 12:50 pm.
 
 
-## Readings
+## Reading Schedule
 
 From the Steven Strogatz book.  These readings are also subject to
 revision.
