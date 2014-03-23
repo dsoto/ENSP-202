@@ -166,6 +166,7 @@ Here is the tentative reading schedule
 
 This is the tentative schedule for the project deadlines.
 
+| Date      | Project                 |
 |:----------|:------------------------|
 | Mon 02-17 | Brainstorm three topics |
 | Wed 02-26 | Choose topic            |
