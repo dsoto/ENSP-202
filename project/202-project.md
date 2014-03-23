@@ -47,22 +47,21 @@ want to provide estimates for.  Clearly state both the question and an
 outline of how you plan to estimate it.
 
 ## Proposal Feedback
-<!--Due 24 Mar 2014-->
 
 You will receive two estimation proposals from your classmates.
 You will read them and give you feedback on the following aspects of the
 proposals.
 
-- The clarity of the proposal
+### The clarity of the proposal
 
 How could the proposal be written to make it more clear?
 
-- Organization of the proposal
+### Organization of the proposal
 
 Is it well organized?  Does it have a structure that aids the reader in
 understanding the goals and methods?
 
-- The usefulness of the method proposed
+### The usefulness of the method proposed
 
 Apply the mathematical intuition you have gained so far in the class.
 Will the estimations proposed answer the question posed?  Are there
@@ -73,6 +72,11 @@ proposal.  As a rule of thumb, provide comments only on the work, not
 the person.  Your goal is to help your classmates improve the quality of
 their projects and reach their highest potential.
 
+### Submission
+
+Communicate your written feedback to your classmates however you like.
+You will submit a copy of your feedback, in PDF format, on Moodle.
+Indicate the name of the feedback recipient and the comments.
 
 ## Estimation first draft
 <!--Due 7 Apr 2014-->
