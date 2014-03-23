@@ -94,7 +94,48 @@ class for learning purposes.  Using devices for social networks or other
 uses during class time is strongly discouraged.
 
 
-## Required Texts
+## Lecture Schedule
+
+The tentative schedule of lecture topics for the class is below.  This
+schedule is likely to change.
+
+|   Lecture | Date      | Topic                        |
+|----------:|:----------|:-----------------------------|
+|         1 | Mon 01-13 | Introduction                 |
+|         2 | Wed 01-15 | Representation               |
+|         3 | Wed 01-22 | Place value                  |
+|         4 | Mon 01-27 | Exponential Notation         |
+|         5 | Wed 01-29 | Orders of Magnitude          |
+|         6 | Mon 02-03 | Multiplication, Division     |
+|         7 | Wed 02-05 | Unit conversion, estimations |
+|         8 | Mon 02-10 | Estimations                  |
+|         9 | Wed 02-12 | Estimations                  |
+|        10 | Mon 02-17 | Geometry                     |
+|        11 | Wed 02-19 | Geometry                     |
+|        12 | Mon 02-24 | Proportion/Trigonometry      |
+|        13 | Wed 02-26 | Trigonometry                 |
+|        14 | Mon 03-03 | Trigonometry                 |
+|        15 | Wed 03-05 | Exponential Functions        |
+|        16 | Mon 03-10 | Logarithms                   |
+|        17 | Wed 03-12 | Functions                    |
+|        18 | Mon 03-24 | Calculus/Rates of Change     |
+|        19 | Wed 03-26 | Calculus/Integration         |
+|        20 | Wed 04-02 | Concentrations               |
+|        21 | Mon 04-07 | Stocks and flows             |
+|        22 | Wed 04-09 | Optimization                 |
+|        23 | Mon 04-14 | Statistics                   |
+|        24 | Wed 04-16 | Statistics                   |
+|        25 | Mon 04-21 | Statistics                   |
+|        26 | Wed 04-23 | Forecasting                  |
+|        27 | Mon 04-28 | Presentations                |
+|        28 | Wed 04-30 | Presentations                |
+
+
+The final exam will be held on Monday, May 5th, from 11 am - 12:50 pm.
+
+## Readings
+
+There are two required texts for this course:
 
 - *The Joy of x: A Guided Tour of Math, from One to Infinity*, Steven Strogatz.
 - *Guesstimation*, Lawrence Weinstein and John A. Adam
@@ -103,63 +144,36 @@ There will also be readings posted to Moodle throughout the
 semester.  Graded reflection assignments will be assigned for posted
 readings and will be included in your homework grading average.
 
+Here is the tentative reading schedule
 
-## Lecture Schedule
+| Date      | Reading                                        |
+|:----------|:-----------------------------------------------|
+| Wed 01-15 | Fish, Rock groups                              |
+| Wed 01-22 | Location, Location, Location                   |
+| Mon 02-03 | Commuting, Division                            |
+| Wed 02-05 | Guesstimation Ch 2                             |
+| Wed 02-19 | Working your quads, Square dancing             |
+| Wed 02-26 | Sine qua non                                   |
+| Mon 03-03 | All about e                                    |
+| Wed 03-05 | Power tools                                    |
+| Mon 03-24 | Take it to the limit, Change we can believe in |
+| Wed 04-02 | Concentration, Von Meier                       |
+| Mon 04-07 | My tub runneth over                            |
+| Mon 04-14 | The new normal                                 |
+| Wed 04-16 | Chances are                                    |
 
-The tentative schedule of lecture topics for the class is below.  This
-schedule is likely to change.
+## Project Schedule
 
-|    |               |                                            |
-|:--:|:-------------:|:------------------------------------------:|
-|  1 | M 13 Jan 2014 | Introduction                               |
-|  2 | W 15 Jan 2014 | Numerical representation                   |
-|  3 | W 22 Jan 2014 | Numerical representation                   |
-|  4 | M 27 Jan 2014 | Computational techniques                   |
-|  5 | W 29 Jan 2014 | Computational techniques                   |
-|  6 | M 03 Feb 2014 | Orders of magnitude                        |
-|  7 | W 05 Feb 2014 | Operations                                 |
-|  8 | M 10 Feb 2014 | Quantity representation                    |
-|  9 | W 12 Feb 2014 | Precision, accuracy, significant figures   |
-| 10 | M 17 Feb 2014 | Precision, accuracy, significant figures   |
-| 11 | W 19 Feb 2014 | Estimation                                 |
-| 12 | M 24 Feb 2014 | Estimation                                 |
-| 13 | W 26 Feb 2014 | Geometry                                   |
-| 14 | M 03 Mar 2014 | Geometry                                   |
-| 15 | W 05 Mar 2014 | Trigonometry                               |
-| 16 | M 10 Mar 2014 | Trigonometry                               |
-| 17 | W 12 Mar 2014 | Exponential functions                      |
-| 18 | M 24 Mar 2014 | Exponential functions                      |
-| 19 | W 26 Mar 2014 | Visual display of quantitative information |
-| 20 | W 02 Apr 2014 | Visual display of quantitative information |
-| 21 | M 07 Apr 2014 | Conceptual calculus                        |
-| 22 | W 09 Apr 2014 | Time steps                                 |
-| 23 | M 14 Apr 2014 | Stocks and flows                           |
-| 24 | W 16 Apr 2014 | Optimization                               |
-| 25 | M 21 Apr 2014 | Statistics                                 |
-| 26 | W 23 Apr 2014 | Statistics                                 |
-| 27 | M 28 Apr 2014 | Statistics                                 |
-| 28 | W 30 Apr 2014 | Extrapolation and forcasting               |
+This is the tentative schedule for the project deadlines.
 
-The final exam will be held on Monday, May 5th, from 11 am - 12:50 pm.
-
-
-## Reading Schedule
-
-From the Steven Strogatz book.  These readings are also subject to
-revision.
-
-|               |                                         |
-|:--------------|:----------------------------------------|
-| W 15 Jan 2014 | From fish to infinity, Rock groups      |
-| W 22 Jan 2014 | Location, location, location            |
-| W 05 Feb 2014 | Commuting, Division and its discontents |
-| W 26 Feb 2014 | Square Dancing                          |
-| W 05 Mar 2014 | Sine qua non                            |
-| W 12 Mar 2014 | All about e                             |
-| M 07 Apr 2014 | Take it to the limit                    |
-| W 09 Apr 2014 | Change we can believe in                |
-| M 21 Apr 2014 | The new normal                          |
-| W 23 Apr 2014 | Chances are                             |
+|:----------|:------------------------|
+| Mon 02-17 | Brainstorm three topics |
+| Wed 02-26 | Choose topic            |
+| Mon 03-10 | Estimation proposal     |
+| Wed 03-26 | Proposal feedback       |
+| Mon 04-07 | First draft             |
+| Mon 04-14 | First draft feedback    |
+| Mon 04-21 | Final submission        |
 
 
 ## Office Hours
