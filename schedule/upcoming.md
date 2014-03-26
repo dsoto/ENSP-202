@@ -13,11 +13,11 @@
 
 ## Wednesday 12 Mar 2014
 - Homework 5
--->
 
 ## Monday 24 Mar 2014
 - Reading: Strogatz "Take it to the limit"
 - Reading: Strogatz "Change we can believe in"
+-->
 
 ## Wednesday 26 Mar 2014
 - Proposal Feedback
@@ -25,6 +25,7 @@
 
 ## Wednesday 2 Apr 2014
 - Reading: Von Meier "Concentration"
+- HW1 Reflection
 
 ## Monday 7 Apr 2014
 - Reading: Strogatz "My tub runneth over"
