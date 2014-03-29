@@ -5,6 +5,15 @@
 
 
 %
+% fractions with roman text
+%
+% \newcommand{\ufrac}[2]{\frac{\textrm{#1}}{\textrm{#2}}}
+\newcommand{\ufrac}[4]{\frac
+{#1\ \textrm{#2}}
+{#3\ \textrm{#4}}}
+
+
+%
 % page formatting
 %
 \pagestyle{empty}
@@ -96,6 +105,7 @@
 \newcommand{\solution}[1]
 {\ifsolution
 %{\color{solution-color} #1}
-{\it #1}
+% Solution: {\it #1}
+Solution: #1
 \else\fi}
 
