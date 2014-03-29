@@ -11,6 +11,7 @@ slidebuild : $(prefix).md
 	pandoc -t beamer -i $(prefix).md -o $(prefix).pdf
 
 lecture:
+	make slidebuild
 	open -a /Applications/Adobe\ Reader.app/ $(prefix).pdf
 
 past:
