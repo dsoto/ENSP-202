@@ -1,0 +1,198 @@
+\documentclass{article}
+\usepackage{soto-homework}
+
+\newif\ifsolution
+\input{solution}
+
+\begin{document}
+
+\chead{ENSP 202 Homework 3}
+\chead{Due Date:  Mon 17 Feb 2014}
+\hrule
+\vspace{10pt}
+
+For all the following examples, explain your strategy in a few
+sentences, and clearly show your work including intermediate steps.
+Solutions that only provide the answer without any supporting
+explanation or calculations will not receive credit.  It should be clear
+from your work that you understand the material.  Write your assignment
+separate paper from this handout.  Please turn in your homework stapled
+together.
+
+{\tiny Last modified: \today}
+
+
+\problem{Unit Conversion}
+Show how to convert each of the following given units to the desired
+units.
+
+\subproblem
+Convert 30 miles per hour to meters per second.
+
+\solution{
+
+$$ \ufrac{30 miles}{hour} \cdot
+   \ufrac{1609 meters}{1 mile} \cdot
+   \ufrac{1 hour}{60 minutes} \cdot
+   \ufrac{1 min}{60 seconds}
+   = 13.4 \ufrac{meters}{second}
+$$
+}
+
+\subproblem
+Convert 1 year to seconds.
+
+\solution{
+$$ \ufrac{1 year}{} \cdot
+   \ufrac{365 days}{1 year} \cdot
+   \ufrac{24 hours}{1 day} \cdot
+   \ufrac{60 minutes}{1 hour} \cdot
+   \ufrac{60 seconds}{1 min}
+   = 3.15 \cdot 10^7 seconds
+$$
+}
+
+\problem{Estimations}
+
+These problems a practice in estimations using linear quantities.  We
+will begin problems involving areas (squared quantities) and volumes
+(cubed quantities) soon.  Clearly show each of the necessary quantities
+for your calculation, their values, and a bit about how you made each
+estimation.
+
+\subproblem{Guesstimation Problem 3.2}
+
+\solution{Available in text
+
+The earth's circumference is about 40,000 km or $4 \cdot 10^7$ meters.
+A golf ball is about 4cm in diameter or $4 \cdot 10^{-2}$ meters.
+
+Dividing these two lengths gives the number of balls, which is $10^9$ or
+about one billion.
+
+}
+
+\subproblem{Guesstimation Problem 3.6}
+
+\solution{Available in text
+
+I assume that a cat is about 5 kg in mass.  (I have a confession to
+make.  I haven't weighed a cat
+recently.)
+
+We multiply Avagadro's number ($6 \cdot 10^{23}$) by 5 kg and get $3
+\cdot 10^{24} kg$ which is about half the mass of the earth.
+
+Note that this is also implies a large number of litter boxes.
+}
+
+\subproblem{Guesstimation Problem 3.7}
+
+\solution{Available in text
+
+I assume that the area of the card is about 10cm by 10cm or 100 square
+centimeters.
+For my estimation of the thickness, I use a pack of playing cards as a
+reference.  A deck of cards is about 2 cm thick and there are about 50
+cards.  1cm divided by 50 is 0.02 mm for each card.  We'll call this
+half a mm.  Each cards volume is
+
+$$ 10 cm \cdot 10 cm \cdot 0.002 cm = 0.2 cubic centimeters $$
+
+If a card is the density of water, the card weighs 0.2 grams.  $10^8$ of
+these tickets is $2 \cdot 10^7$ grams or $2 \cdot 10^3$ kg.  This is
+about 200 tons.  5 40 ton trucks will be needed to carry 200 tons.
+
+}
+
+\subproblem{Guesstimation Problem 3.11}
+
+
+\solution{Available in text
+
+We assume that a student can put away 200 books per hour and works 40
+hours a week for 3 weeks.
+
+$$ \ufrac{200 books}{hour $\cdot$ student} \cdot
+\ufrac{40 hours}{week} \cdot \ufrac{3 weeks}{} = \frac{2 \cdot 10^4
+books}{student}$$
+
+Since we need to shelve two million ($2 \cdot 10^6 books$) this is 100
+students.
+
+}
+
+\subproblem{Metta World Pizza}
+
+This problem follows our example from class.  When we have the pizza
+delivered for our world pizza party, how high will the stack of pizza
+boxes reach?
+
+\solution{
+Start by listing the quantities we need and the estimates
+
+World population 7 billion\\
+Slices per person 2\\
+Slices per pizza 8\\
+Box height per pizza 4 cm\\
+
+We then check to be sure our units make sense.
+
+$$ box height = persons \cdot \ufrac{slices}{person}
+                \cdot \ufrac{pizza}{slice}
+                \cdot \ufrac{box height}{pizza} $$
+
+$$ box height = 7 \cdot 10^9 persons \cdot \ufrac{2 slices}{1 person}
+                \cdot \ufrac{1 pizza}{8 slices}
+                \cdot \ufrac{4 cm}{1 pizza} $$
+
+$$ box height = 7 \cdot 10^9 cm$$
+
+I'd rather express this in kilometers since it is a large number of a
+small unit.
+
+$$ 7 \cdot 10^9 cm \frac{1 m}{10^2 cm} \frac{1 km}{10^3 m}
+= \boxed{7 \cdot 10^4 km} $$
+
+}
+
+\problem{Review}
+
+\subproblem{Convert $123.12_5$ to a base 10 number.}
+
+\solution{
+I start by determining the value of each place.  In this case we have
+
+$$ 5^2, 5^1, 5^0, 5^{-1}, 5^{-2} $$
+
+As whole numbers and fractions, these are
+
+$$ 25, 5, 1, 1/5, 1/25 $$
+
+As decimal numbers, these are
+
+$$ 25, 5, 1, 0.2, 0.04 $$
+
+We multiply by the number occupying each place by the value of that
+location and sum.
+
+$$ 1 \cdot 25 + 2 \cdot 5 + 3 \cdot 1 + 1 \cdot 0.2 + 2 \cdot 0.04 = 38.28$$
+
+}
+
+\subproblem{Express 7,560,000,000 in scientific notation}
+
+\solution{
+$7.56 \cdot 10^9$
+}
+
+\problem{Final Project}
+
+List three topics you find interesting that you will explore
+quantitatively for your final project.
+
+\problem{Time Spent}
+
+Please estimate the amount of time you spent on this homework.
+
+\end{document}

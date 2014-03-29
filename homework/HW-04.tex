@@ -1,0 +1,172 @@
+\documentclass{article}
+\usepackage{soto-homework}
+
+\newif\ifsolution
+\input{solution}
+
+\begin{document}
+
+\chead{ENSP 202 Homework 4}
+\chead{Due Date:  Mon 24 Feb 2014}
+\hrule
+\vspace{10pt}
+
+For all the following examples, explain your strategy in a few
+sentences, and clearly show your work including intermediate steps.
+Solutions that only provide the answer without any supporting
+explanation or calculations will not receive credit.  It should be
+clear from your work that you understand the material.
+
+{\tiny Last modified: \today}
+
+\problem{Estimations}
+
+These estimations include areas and volumes.
+
+\subproblem Guesstimation Problem 3.1
+
+\solution{
+The first part of the problem assumes that everyone stands together as
+if they were at a concert.
+
+$$
+\ufrac{7 \cdot 10^9}{people}{}{}
+\cdot
+\ufrac{}{square meter}{6}{people}
+\cdot
+\ufrac{}{square kilometer}{10^6 }{square meter}
+= 1200 square kilometers
+$$
+
+Assuming everyone is in a family of four and lives on a 30 meter by 30
+meter house lot.
+
+$$
+\ufrac{7 \cdot 10^9}{ people}{}{}
+\cdot
+\ufrac{}{family}{4}{people}
+\ufrac{900 }{square meters}{}{family}
+= 1.6 \cdot 10^6 square meters
+$$
+
+}
+
+
+\subproblem Guesstimation Problem 3.5
+
+\solution{
+
+We start by estimating the volume of the dome using a half a sphere as
+an estimation.
+
+$$ V =
+\frac{1}{2}
+\frac{4\pi}{3}
+r^3
+$$
+
+$$ V =
+\frac{1}{2}
+\frac{4\pi}{3}
+(16 meters)^3
+= 6000 m^3
+$$
+
+$$
+6000 m^3
+\cdot
+\ufrac{264}{gallons}{}{m$^3$}
+\cdot
+\ufrac{1}{minute}{3}{gallons}
+= 5 \cdot 10^5 minutes
+$$
+
+}
+
+\subproblem Guesstimation Problem 3.8
+
+\solution{
+
+About $ 3 \cdot 10^8$ cubic meters per year.
+}
+
+\subproblem Guesstimation Problem 3.9
+
+\solution{
+
+In the previous problem we estimated a yearly trash production of $3
+\cdot 10^8$ cubic meters per year.
+
+If we stack the trash 30 meters high, this will require an area of
+$$\ufrac{3 \cdot 10^8}{cubic meters}{30}{meters} = 10^7 square meters$$
+}
+
+\subproblem
+How many students could comfortably sunbathe on the grass between Darwin
+and Stevenson?
+
+\solution{
+What is the area of the grass between the two buildings?
+How much area does a student need to lay out comfortably?
+
+According to Google maps, the grassy area is 28 meters by 40 meters.
+
+This gives an area of $28 \cdot 40 =$ 1120 square meters.  A person is
+approximately 2 meters tall and a towel is approximately 1 meter wide.
+This means each person will need about 2 square meters of space.
+
+$$ \ufrac{1120}{square meters}{}{} \cdot \ufrac{1}{person}{2}{square meters} =
+560\ \textrm{persons}$$
+This
+}
+
+\problem{Review}
+
+\subproblem Binary Scientific Notation.  This number is in base 2: $101
+\cdot 10^{110}$  What is this number in base 10?  (Break this up into
+pieces that you know how to do.  You have all the tools you need to
+figure this out.)  Be sure you understand what $10^x$ means here.
+
+\solution{
+One key part is recognizing that $10^x$ really means $2^x$.
+
+Binary:
+$$101 \cdot 10^{110} $$
+
+$$ 101_2 = 5_{10}$$
+$$ 10_2 = 2_{10}$$
+$$ 110_2 = 6_{10}$$
+
+Base 10:
+$$ 5 \cdot 2^{6} $$
+$$ 5 \cdot 64 $$
+$$ 320 $$
+}
+
+\subproblem
+Using $a \cdot c \cdot 10^{b+d}$ and showing your work, multiply
+$4 \cdot 10^7$ by $2 \cdot 10^{-5}$.
+
+
+\solution{
+$$ 4 \cdot 2 \cdot 10^{7 + (-5)} = 8 \cdot 10^2 $$
+}
+
+\subproblem
+Using $\frac{a}{c} \cdot 10^{b-d}$ and showing your work, calculate
+$4 \cdot 10^7 \div 2 \cdot 10^{-5}$.
+
+\solution{
+
+$$ \frac{4}{2} \cdot 10^{7 - (-5)} = 2 \cdot 10^{12} $$
+
+}
+
+\problem{Time Spent}
+Please estimate the amount of time you spent on this homework.
+
+
+
+
+
+\end{document}
