@@ -1,11 +1,8 @@
 \documentclass{article}
 \usepackage{soto-homework}
 
-% set up whether we are printing assignment or solution
 \newif\ifsolution
 \input{solution}
-
-\newcommand{\ufrac}[2]{\frac{\textrm{#1}}{\textrm{#2}}}
 
 \begin{document}
 
@@ -14,19 +11,26 @@
 \hrule
 \vspace{10pt}
 
-
-
 For all the following examples, explain your strategy in a few
 sentences, and clearly show your work including intermediate steps.
 Solutions that only provide the answer without any supporting
 explanation or calculations will not receive credit.  It should be
 clear from your work that you understand the material.
 
+{\tiny Last modified: \today}
+
 \problem{Exponential Notation}
 Write the following numbers in exponential notation, choosing your
 preference of either scientific or engineering notation:
 
 \subproblem 0.0021 \solution{ \boxed{2.1 \cdot 10^{-3}}
+
+There isn't much work to show on these problems.  If we like, we can
+write out each movement of the decimal place to see the pattern emerge.
+
+$$ 0.0021 = \frac{0.021}{10} = 0.021 \cdot 10^{-1} $$
+$$ 0.0021 = \frac{0.21}{100} = 0.21 \cdot 10^{-2} $$
+$$ 0.0021 = \frac{2.1}{1000} = 2.1 \cdot 10^{-3} $$
 }
 
 \subproblem 1,256,000 \solution{ \boxed{ 1.256 \cdot 10^{6}}
@@ -57,10 +61,17 @@ perform the calculations on your calculator and write down which keys
 you press to create exponents, and what the result is on your
 calculator.
 
-\subproblem $2 \cdot 10^3 \times 2 \cdot 10^3$ \solution{\boxed{ 4 \cdot
-10^6}}
+\subproblem $2 \cdot 10^3 \times 2 \cdot 10^3$
+\solution{\boxed{ 4 \cdot 10^6}
 
-\subproblem 3 million $\times$ 4 billion \solution{\boxed{12 \cdot 10^{15}}
+On my calculator there is an "E" button so I press "2" "E" "3" to enter
+$2 \cdot 10^3$.  When I perform the calculation I get "4,000,000.0000"
+which I know to write as $4 \cdot 10^6$.
+
+}
+
+\subproblem 3 million $\times$ 4 billion
+\solution{\boxed{12 \cdot 10^{15}}
 
 Write out in exponential notation first
 $$ 3 \cdot 10^6 \times 4 \cdot 10^9 $$
@@ -70,13 +81,29 @@ $$ \boxed{12 \cdot 10^{15}} $$
 }
 
 
-\subproblem $10^9 \div (300 \cdot 10^6)$ \solution{\boxed{3.33}}
+\subproblem $10^9 \div (300 \cdot 10^6)$
+\solution{\boxed{3.33}
+This one is slightly different since there is an implied 1 when we write
+$10^9$.  That is,
+$$ 10^9 = 1 \cdot 10^9$$
+$$ \frac{1}{300} \cdot 10^{9-6} $$
+$$ 0.0033 \cdot 10^3 $$
+$$ 3.3 $$
+}
 
 \subproblem $ 6.1 \cdot 10^7 \times 3.8 \cdot 10^{-9} $
-\solution{\boxed{0.23}}
+\solution{\boxed{2.3 \cdot 10^{-1}}
+$$ 6.1 \cdot 3.8 \cdot 10^{7+(-9)} $$
+$$ 23 \cdot 10^{-2} $$
+$$ 2.3 \cdot 10^{-1} $$
+}
 
 \subproblem $ 3.5 \cdot 10^{-4} \div (7.2 \cdot 10^{-8}) $
-\solution{\boxed{4.86 \cdot 10^3}}
+\solution{\boxed{4.86 \cdot 10^3}
+$$ \frac{3.5}{7.2} \cdot 10^{-4 - (-8)} $$
+$$ 0.486 \cdot 10^4 $$
+$$ 4.86 \cdot 10^3 $$
+}
 
 \problem{Notation Preference}
 
@@ -93,6 +120,22 @@ consumption is about $480 \cdot 10^{18}$ Joules.  Since the metric
 prefix for $10^{18}$ is ``exa'' I can also say 480 exajoules.  In this
 way, I prefer engineering notation.
 
+}
+
+\problem{Review}
+
+\subproblem{Convert $210_3$ to a base 10 number.  (We haven't covered
+base 3 explicitly, but you can do this with what you know.}
+\solution{\boxed{21_{10}}
+
+The values of our places in this case are
+
+$$ 3^2, 3^1, 3^0 $$
+$$ 9, 3, 1$$
+
+Multiplying the numbers times the value of their locations we get
+
+$$ 2 \cdot 9 + 1 \cdot 3 + 0 \cdot 1 = \boxed{21_{10}}$$
 }
 
 \problem{Time Spent}
