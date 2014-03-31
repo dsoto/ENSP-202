@@ -78,6 +78,20 @@ approach differs from the accepted approach.  Self-evaluations that
 demonstrate an improvement in your understanding will raise your
 homework grade through partial credit.
 
+| Date      | Homework     |
+|:----------|:-------------|
+| Mon 02-03 | Homework 1   |
+| Mon 02-10 | Homework 2   |
+| Mon 02-17 | Homework 3   |
+| Mon 02-24 | Homework 4   |
+| Mon 03-03 | Homework 5   |
+| Wed 04-02 | Reflection 1 |
+| Wed 04-09 | Reflection 2 |
+| Mon 04-14 | Homework 6   |
+| Wed 04-16 | Reflection 3 |
+| Wed 04-23 | Reflection 4 |
+| Mon 04-28 | Reflection 5 |
+| Wed 04-30 | Reflection 6 |
 
 ## Agreements
 
@@ -126,10 +140,9 @@ schedule is likely to change.
 |        23 | Mon 04-14 | Statistics                   |
 |        24 | Wed 04-16 | Statistics                   |
 |        25 | Mon 04-21 | Statistics                   |
-|        26 | Wed 04-23 | Forecasting                  |
+|        26 | Wed 04-23 | Presentations                |
 |        27 | Mon 04-28 | Presentations                |
 |        28 | Wed 04-30 | Presentations                |
-
 
 The final exam will be held on Monday, May 5th, from 11 am - 12:50 pm.
 
@@ -157,6 +170,7 @@ Here is the tentative reading schedule
 | Mon 03-03 | All about e                                    |
 | Wed 03-05 | Power tools                                    |
 | Mon 03-24 | Take it to the limit, Change we can believe in |
+| Wed 03-26 | It slices, it dices                            |
 | Wed 04-02 | Concentration, Von Meier                       |
 | Mon 04-07 | My tub runneth over                            |
 | Mon 04-14 | The new normal                                 |
@@ -176,7 +190,6 @@ This is the tentative schedule for the project deadlines.
 | Mon 04-14 | First draft feedback    |
 | Mon 04-21 | Final submission        |
 
-
 ## Office Hours
 
 My office hours are held Tuesday and Wednesday in my office in Rachel
@@ -191,4 +204,3 @@ such as the add/drop policy; cheating and plagiarism policy, grade
 appeal procedures; accommodations for students with disabilities and the
 diversity vision statement.  Go to this URL to find them.
 [http://www.sonoma.edu/uaffairs/policies/studentinfo.shtml](http://www.sonoma.edu/uaffairs/policies/studentinfo.shtml)
-
