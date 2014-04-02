@@ -1,32 +1,100 @@
-# ENSP 202 Upcoming Assignments
-
 <!--
-## Monday 3 Mar 2014
-- Project Topic
+##  Mon 01-13
 
-## Wednesday 5 Mar 2014
-- Reading Strogatz "All about e"
-- Reading Strogatz "Power Tools"
+##  Wed 01-15
+- Fish, Rock groups
 
-## Monday 10 Mar 2014
-- Project Proposal
+## nan
 
-## Wednesday 12 Mar 2014
+##  Wed 01-22
+- Location, Location, Location
+
+##  Mon 01-27
+
+##  Wed 01-29
+
+##  Mon 02-03
+- Homework 1
+- Commuting, Division
+
+##  Wed 02-05
+- Guesstimation Ch 2
+
+##  Mon 02-10
+- Homework 2
+
+##  Wed 02-12
+
+##  Mon 02-17
+- Homework 3
+- Brainstorm three topics
+
+##  Wed 02-19
+- Working your quads, Square dancing
+
+##  Mon 02-24
+- Homework 4
+
+##  Wed 02-26
+- Choose topic
+- Sine qua non
+
+##  Mon 03-03
 - Homework 5
+- All about e
 
-## Monday 24 Mar 2014
-- Reading: Strogatz "Take it to the limit"
-- Reading: Strogatz "Change we can believe in"
+##  Wed 03-05
+- Power tools
+
+##  Mon 03-10
+- Estimation proposal
+
+##  Wed 03-12
+
+## nan
+
+##  Mon 03-24
+- Take it to the limit, Change we can believe in
+
+##  Wed 03-26
+- Proposal feedback
+- It slices, it dices
+
+## nan
+
 -->
 
-## Wednesday 26 Mar 2014
-- Proposal Feedback
-- Reading: Strogatz "It slices, it dices"
+##  Wed 04-02
+- Reflection 1
+- Concentration, Von Meier
 
-## Wednesday 2 Apr 2014
-- Reading: Von Meier "Concentration"
-- HW1 Reflection
+##  Mon 04-07
+- First draft
+- My tub runneth over
 
-## Monday 7 Apr 2014
-- Reading: Strogatz "My tub runneth over"
-- First Draft of Project
+##  Wed 04-09
+- Reflection 2
+
+<!--
+##  Mon 04-14
+- Homework 6
+- First draft feedback
+- The new normal
+
+##  Wed 04-16
+- Reflection 3
+- Chances are
+
+##  Mon 04-21
+- Final submission
+
+##  Wed 04-23
+- Reflection 4
+
+##  Mon 04-28
+- Reflection 5
+
+##  Wed 04-30
+- Reflection 6
+
+-->
