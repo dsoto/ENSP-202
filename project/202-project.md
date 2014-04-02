@@ -85,6 +85,13 @@ Based on the feedback and your original proposal, you will turn in your
 calculation and an explanation of your methods and the implications of
 your result.
 
+This report will contain a written part with an introduction, a
+description of your methods, a summary of your results, and a discussion
+of the implications of your result.  You will also include either in the
+text or as an appendix, the details of your calculations.
+
+
+Unexcused late submissions will lose 10 points for each day they are late.
 
 ## First Draft Feedback
 <!--Due 14 Apr 2014-->
@@ -102,6 +109,8 @@ in the class.  They will read it and give you feedback on
 
 Incorporate the feedback you received and write a final submission of
 your calculation and the explanation.
+
+Unexcused late submissions will lose 10 points for each day they are late.
 
 ## Final presentation
 
