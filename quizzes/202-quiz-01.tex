@@ -1,0 +1,67 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{soto-exam}
+
+\newif\ifsolution
+\input{solution}
+
+\begin{document}
+
+
+\chead{ENSP 202 Quiz\\
+       Monday 24 Feb 2014}
+
+\namebox
+
+\problem{}
+
+Express the following binary number in decimal
+
+$10110_2$
+
+\vspace{2.5 cm}
+
+\solution{\boxed{22_{10}}
+
+I start by writing out the value assigned to each of the places.  From
+left to right, they are
+
+$$ 2^4, 2^3, 2^2, 2^1, 2^0 $$
+$$ 16, 8, 4, 2, 1 $$
+
+I then multiply each place by the value in that place
+
+$$ 1 \cdot 16 + 0 \cdot 8 + 1 \cdot 4
+ + 1 \cdot 2 + 0 \cdot 1 = \boxed{22_{10}} $$
+}
+
+\problem{}
+
+Which of these shapes have the same area?
+
+1) A 3 meter by 4 meter rectangle\\
+2) A 2 meter by 8 meter rectangle\\
+3) A 2 meter by 6 meter rectangle\\
+
+\solution{
+
+Triangles 1 and 3 have an area of 12 meters squared and are equal.
+
+}
+
+\vspace{2.5 cm}
+\problem{}
+
+Calculate this expression and provide the answer in scientific notation.
+
+$$ \frac{2.0 \cdot 10^{-6}}{1.4 \cdot 10^{-9}}$$
+
+\solution{
+$$1.4 \cdot 10^3$$
+Our calculators show many more digits, but we since we only have two
+digits specified in each, a good rule of thumb is to round to the first
+two digits of the answer.
+}
+
+
+\end{document}
+

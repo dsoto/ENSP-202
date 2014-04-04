@@ -1,0 +1,118 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{soto-quiz}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+
+\newif\ifsolution
+\input{solution}
+
+\begin{document}
+
+\lhead{ENSP 202}
+\chead{Exercises 4}
+\rhead{Monday 24 Mar 2014}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\pagestyle{fancy}
+
+\namebox
+
+Do this work in your class notes and write your answers on this sheet
+and turn in at the end of class.
+
+\problem{Ladders}
+
+You need to reach a spot on a wall 9 meters above the ground.  You have
+a 10 meter ladder.  If the top of the ladder reaches 9 meters up, how
+far from the wall is the bottom?  First take an educated guess.  Then
+use trigonometry.  Draw a picture and label the
+distances.  Does this feel safe?
+
+\solution{
+There are multiple ways to solve this.
+
+The sine of the angle the ladder makes with the wall is given by 9 over
+10 or 0.9.
+
+The angle that makes this sine can be calculated using the arcsin
+function.  We get an angle about 65 degrees.  The distance from the
+wall is given by the cosine of this angle multiplied by the length of
+the ladder.  This is about 4.4 meters.
+
+\begin{tikzpicture}
+
+\coordinate (A) at (4.4,9);
+
+\draw (0, 0) -- (A)
+    node[pos=0, anchor=south west] {$\alpha$}
+    node[pos=0.50, anchor=south, sloped] {10 meters};
+
+\draw (0, 0) -| (A)
+    node[pos=0.25, anchor=north] {4.4 meters}
+    node[pos=0.75, anchor=west] {9 meters} ;
+
+\end{tikzpicture}
+}
+
+\problem{Credit Card}
+
+A credit card has a monthly interest rate of 2 percent.
+The function that credit cards use to calculate your balance is
+
+$$ \textrm{New Balance} = \textrm{Original Balance}
+\cdot (1 + \textrm{interest rate})^{\textrm{Number of Periods}} $$
+
+If you buy a
+1000 dollar item and don't make a payment, what is your account balance
+in one year?
+
+2 years?
+
+3 years?
+
+
+\solution{
+$$ 1000 \cdot (1 + 0.02)^{12} = 1286.42 $$
+$$ 1000 \cdot (1 + 0.02)^{24} = 1608.43 $$
+$$ 1000 \cdot (1 + 0.02)^{36} = 2039.89 $$
+}
+
+\problem{Exponential Growth}
+
+The mass of mold on my pizza is 2 grams right now.  Mold scientists tell
+me it will grow according to the function
+
+$$ \textrm{Mold (grams)} = 2 e^{0.08 t} $$
+
+Where $t$ is the number of hours from now.
+
+How many grams of mold will
+there be in a twelve hours?
+
+\solution{
+
+$$ 2 e^{0.08 \cdot 12} = 5.2 $$
+
+5.2 grams or almost triple.
+
+}
+
+How long until I have 20 grams of mold?
+
+\solution{
+This requires a little bit of algebra.  The question we ask is, what is
+$t$ when the amount of mold equals 20 grams?
+
+$$ 20 grams = 2 e^{0.08 t} $$
+$$ 10 = e^{0.08 t} $$
+
+Recall what the natural log function tells us: If $y = e^x$ then $\ln y = x$
+
+$$ ln 10 = 2.3 = 0.08 \cdot t $$
+$$ t = 2.3/0.08 = 29 hours $$
+
+}
+
+\end{document}
+

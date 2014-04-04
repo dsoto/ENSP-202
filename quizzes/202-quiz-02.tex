@@ -1,0 +1,81 @@
+\documentclass[12pt, oneside]{article}
+\usepackage{soto-quiz}
+\usepackage{tikz}
+\usepackage{fancyhdr}
+
+\newif\ifsolution
+\input{solution}
+
+\begin{document}
+
+\lhead{ENSP 202}
+\chead{Exercises 2}
+\rhead{Monday 03 Mar 2014}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\pagestyle{fancy}
+
+\namebox
+
+\problem{}
+
+Use this triangle for the following problem.
+
+\begin{center}
+\begin{tikzpicture}
+% triangle
+\draw (0,0) -- (8,0) -- (8,4) -- (0,0);
+% angle label
+\draw	(0.8,0.25) node[anchor=west] {$\theta$};
+\end{tikzpicture}
+\end{center}
+
+Estimate the tangent of this angle and briefly explain your method.
+
+\solution{
+Using my pinky finger as an approximation for a centimeter, I measure
+that the triangle is about 8cm wide and 4cm tall.  The tangent is the
+height of a right triangle divided by the length, so the tangent is
+about 0.5.}
+
+\vspace{1cm}
+
+Estimate the angle in degrees and briefly explain your method.
+
+\solution{
+I estimate that the angle is about 30 degrees.  I estimate that three of
+the wedges formed by the triangle can fit in a 90 degree wedge.
+
+This is very close to the 26.6 degrees we get from taking the inverse
+tangent (or arctangent) of 0.5.
+
+$$ \arctan 0.5 = 26.6\ degrees $$
+$$ \tan 26.6\ degrees = 0.5 $$
+}
+
+\vspace{1cm}
+
+
+\problem{}
+
+Estimate the area of this ellipse in square centimeters.
+
+\begin{center}
+\begin{tikzpicture}
+% ellipse
+\draw (0,0) ellipse (4 and 2);
+\end{tikzpicture}
+\end{center}
+
+\solution{
+Using my pinky again, this ellipse is approximately 8cm by 4cm.  If it
+were a rectangle, it would cover 32 cm$^2$ in area.  However, I multiply
+this by about 70\% since an ellipse doesn't cover the whole rectangular
+area.  From this I estimate about 21 cm$^2$.
+
+The exact answer is $\pi \cdot 4 \cdot 2 = 25.1$
+}
+
+\end{document}
+
