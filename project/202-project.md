@@ -75,8 +75,9 @@ their projects and reach their highest potential.
 ### Submission
 
 Communicate your written feedback to your classmates however you like.
-You will submit a copy of your feedback, in PDF format, on Moodle.
-Indicate the name of the feedback recipient and the comments.
+You will also submit a copy of your written feedback to your classmates, in
+PDF format, on Moodle.  Indicate the name of the feedback recipients in
+the comments.
 
 ## Estimation first draft
 <!--Due 7 Apr 2014-->
@@ -90,7 +91,6 @@ description of your methods, a summary of your results, and a discussion
 of the implications of your result.  You will also include either in the
 text or as an appendix, the details of your calculations.
 
-
 Unexcused late submissions will lose 10 points for each day they are late.
 
 ## First Draft Feedback
@@ -99,9 +99,23 @@ Unexcused late submissions will lose 10 points for each day they are late.
 Your first draft will be randomly assigned to two other students
 in the class.  They will read it and give you feedback on
 
+- Is the report well structured and does it contain an introduction,
+  method description, and discussion of implications?
 - Can you follow the calculation?
 - Is the method clear?
 - Are there any mistakes in the calculation?
+
+If you don't have any criticisms, point out which aspects of
+the project are strongest and why.
+
+
+### Submission
+
+You will have the same feedback partners as you had for the proposal.
+Communicate your written feedback to your classmates however you like.
+You will also submit a copy of your written feedback to your classmates, in
+PDF format, on Moodle.  Indicate the name of the feedback recipients in
+the comments.
 
 ## Final submission
 
