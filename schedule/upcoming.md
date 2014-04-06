@@ -62,28 +62,29 @@
 
 ## nan
 
--->
 
 ##  Wed 04-02
 - Reflection 1
 - Concentration, Von Meier
 
+-->
+
 ##  Mon 04-07
 - First draft
-- My tub runneth over
+- Reading: My tub runneth over
 
 ##  Wed 04-09
-- Reflection 2
+- Homework Reflection 2
 
-<!--
 ##  Mon 04-14
-- Homework 6
 - First draft feedback
-- The new normal
+- Reading: The new normal
 
 ##  Wed 04-16
-- Reflection 3
-- Chances are
+- Homework Reflection 3
+- Reading: Chances are
+
+<!--
 
 ##  Mon 04-21
 - Final submission
