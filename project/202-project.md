@@ -105,7 +105,7 @@ in the class.  They will read it and give you feedback on
 - Is the method clear?
 - Are there any mistakes in the calculation?
 
-If you don't have any criticisms, point out which aspects of
+If you don't have any suggestions for improvement, point out which aspects of
 the project are strongest and why.
 
 
