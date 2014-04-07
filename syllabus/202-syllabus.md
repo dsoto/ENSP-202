@@ -1,13 +1,14 @@
 # Quantitative Methods, ENSP 202, Spring 2014
 
------------
-3 Units, Monday and Wednesday, 10:45 am - 12:00 pm, RCH 14
-Daniel Soto
-Rachel Carson Hall 12
-sotod@sonoma.edu
-Department of Environmental Studies and Planning
-Sonoma State University
------------
+|           |                                       |
+|-----------|---------------------------------------|
+|Days       | Monday and Wednesday                  |
+|Time       | 10:45 am - 12:00 pm                   |
+|Units      | 3                                     |
+|Location   | Rachel Carson Hall 14                 |
+|Instructor | Daniel Soto                           |
+|Office     | Rachel Carson Hall 12                 |
+|Email      | sotod@sonoma.edu                      |
 
 
 ## Course Description
@@ -87,11 +88,9 @@ homework grade through partial credit.
 | Mon 03-03 | Homework 5   |
 | Wed 04-02 | Reflection 1 |
 | Wed 04-09 | Reflection 2 |
-| Mon 04-14 | Homework 6   |
 | Wed 04-16 | Reflection 3 |
 | Wed 04-23 | Reflection 4 |
-| Mon 04-28 | Reflection 5 |
-| Wed 04-30 | Reflection 6 |
+| Wed 04-30 | Reflection 5 |
 
 ## Agreements
 
