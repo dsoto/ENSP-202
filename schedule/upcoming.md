@@ -67,7 +67,6 @@
 - Reflection 1
 - Concentration, Von Meier
 
--->
 
 ##  Mon 04-07
 - First draft
@@ -75,6 +74,8 @@
 
 ##  Wed 04-09
 - Homework Reflection 2
+
+-->
 
 ##  Mon 04-14
 - First draft feedback
@@ -84,18 +85,15 @@
 - Homework Reflection 3
 - Reading: Chances are
 
-<!--
 
 ##  Mon 04-21
 - Final submission
 
 ##  Wed 04-23
-- Reflection 4
+- Homework Reflection 4
 
-##  Mon 04-28
-- Reflection 5
-
-##  Wed 04-30
-- Reflection 6
+<!--
+##  Mon 04-30
+- Homework Reflection 5
 
 -->
