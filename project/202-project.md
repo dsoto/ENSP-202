@@ -126,9 +126,62 @@ your calculation and the explanation.
 
 Unexcused late submissions will lose 10 points for each day they are late.
 
+Your projects will be graded according to the following criteria
+
+- Clarity of writing
+- Clarity and communication of your quantitative analysis
+- Accuracy of the quantitative analysis
+- Organization of report
+
+### Submission
+
+You will submit a single PDF file with the report and sufficient details
+to understand your calculations.  If you also wish to turn in any
+supplementary materials, you may submit those files on Moodle as well.
+
 ## Final presentation
 
 <!-- Due ??? -->
 
 You will provide a brief presentation of your calculation during class
-on your estimation.
+on your estimation.  You will sign up for 10 minute slots with an online
+link that I will provide.  You may use whatever presentation tools you
+like.  Prepare about 5 minutes of material to leave time for questions.
+
+Email me your presentation file in either Powerpoint, Keynote, or PDF
+before class the day of your presentation.  I will run the presentations
+from my laptop.
+
+### Submission
+
+Please create a PDF file of your presentation and upload it to Moodle.
+
+\newpage
+
+## Final presentation feedback
+
+During class you will be providing feedback on the presentations.
+
+You are also expected to participate by asking questions.  I will pass
+out two cards to each student.  Write your names on them.  When you ask
+a question, pass your card to the front.  To get full participation
+credit, you'll need to turn in both cards by the end of the semester.
+
+You will also give feedback to the presenters on their content and
+delivery.  These comments are to be constructive and polite with the
+objective of helping students improve their presentation skills.  I will
+create a shared document for us to add feedback.
+
+When providing feedback on the content and delivery of the talk, keep
+the following questions in mind.
+
+### Content
+
+- Does the presentation have a structure that is clear?
+- Is the main point of the speaker clearly communicated?
+- Are the assumptions and sources of estimations clear?
+
+### Delivery
+
+- Does the presentation appear well prepared?
+- Is the presenter engaged with the audience?
